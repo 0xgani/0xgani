@@ -23,7 +23,7 @@ I've shipped 20+ client projects across web scraping & automation, bot developme
 
 ### Core Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,remix,astro,tailwind,nodejs,bun,elysia,mongodb,postgres,redis,linux,docker,python,php,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,remix,astro,tailwind,nodejs,bun,elysia,mongodb,postgres,redis,linux,docker,python,php,rust,figma)](https://skillicons.dev)
 
 <p align="center">
   <a href="mailto:me@riobits.dev"><img src="https://img.shields.io/badge/Email-me%40riobits.dev-0a0a0a?style=flat-square&logo=mail.ru&logoColor=white" /></a>
